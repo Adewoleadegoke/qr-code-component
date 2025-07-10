@@ -1,0 +1,52 @@
+body {
+    background-color:  hsl(212, 45%, 89%);
+    height: 800px;
+    font-size: 15px;
+}
+
+.attribution {
+    position: relative;
+    top: 70px;
+}
+
+.bigtext {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    width: 80%;
+    margin: 2px auto 15px;
+}
+
+.normaltext {
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    width: 80%;
+    margin: 0 auto;
+}
+.image {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.qr {
+    background-color: white;
+    font-family: 'Outfit';
+    height: 360px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 25px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+    font-size: 20px;
+  }
+}
