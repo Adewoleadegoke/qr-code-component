@@ -7,46 +7,51 @@ body {
 .attribution {
     position: relative;
     top: 70px;
+    font-family: sans-serif;
 }
 
 .bigtext {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    width: 80%;
-    margin: 2px auto 15px;
+    margin: 0 auto 16px;
+    font-size: 22px;
 }
 
 .normaltext {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
-    width: 80%;
     margin: 0 auto;
 }
 .image {
-    height: 200px;
-    width: 200px;
+    height: 288px;
+    width: 288px;
     border-radius: 10px;
     margin: 0;
+    margin-bottom: 24px;
 }
 
 .qr {
     background-color: white;
     font-family: 'Outfit';
-    height: 360px;
-    width: 200px;
     margin: auto;
-    border-radius: 10px;
-    padding: 10px;
-    padding-bottom: 25px;
+    width: 288px;
+    border-radius: 20px;
+    padding: 16px;
+    padding-bottom: 40px;
     text-align: center;
     position: relative;
     top: 30px;
 }
 
+.text {
+    padding: 0 16px 0;
+}
 
+/*t
 @media screen and (min-width: 480px) {
   body {
     background-color: lightgreen;
     font-size: 20px;
   }
 }
+*/
