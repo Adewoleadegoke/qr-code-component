@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https)
-- Live Site URL: [Liv site URL](https://qr-code-component-tau-azure.vercel.app/)
+- Live Site URL: [Live site URL](https://qr-code-component-tau-azure.vercel.app/)
 
 ## My process
 
